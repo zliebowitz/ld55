@@ -14,6 +14,7 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"tower","order":3,"path":"folders/Sprites/tower.yy",},
     {"name":"monsters","order":2,"path":"folders/Sprites/monsters.yy",},
     {"name":"tile_set","order":1,"path":"folders/Sprites/tile_set.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
@@ -21,5 +22,8 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_monster_generator","order":1,"path":"objects/obj_monster_generator/obj_monster_generator.yy",},
+    {"name":"obj_tower_archer","order":2,"path":"objects/obj_tower_archer/obj_tower_archer.yy",},
+    {"name":"obj_tower_archer_arrow","order":3,"path":"objects/obj_tower_archer_arrow/obj_tower_archer_arrow.yy",},
+    {"name":"spr_tower_archer_arrow","order":1,"path":"sprites/spr_tower_archer_arrow/spr_tower_archer_arrow.yy",},
   ],
 }
