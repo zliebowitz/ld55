@@ -1,4 +1,9 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_defender_magenta_elemental_shot","order":2,"path":"sprites/spr_defender_magenta_elemental_shot/spr_defender_magenta_elemental_shot.yy",},
+    {"name":"spr_defender_magenta_elemental","order":1,"path":"sprites/spr_defender_magenta_elemental/spr_defender_magenta_elemental.yy",},
+    {"name":"spr_defender_orange_elemental","order":3,"path":"sprites/spr_defender_orange_elemental/spr_defender_orange_elemental.yy",},
+    {"name":"spr_defender_organe_elemental_shot","order":4,"path":"sprites/spr_defender_organe_elemental_shot/spr_defender_organe_elemental_shot.yy",},
+  ],
 }
