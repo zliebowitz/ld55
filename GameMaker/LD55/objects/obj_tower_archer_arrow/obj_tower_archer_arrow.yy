@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tower_archer_arrow",
-    "path":"sprites/spr_tower_archer_arrow/spr_tower_archer_arrow.yy",
+    "name":"spr_defender_elemental_shot",
+    "path":"sprites/spr_defender_elemental_shot/spr_defender_elemental_shot.yy",
   },
   "spriteMaskId":null,
   "visible":true,
