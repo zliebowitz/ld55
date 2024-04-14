@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_defender_orange_elemental",
-    "path":"sprites/spr_defender_orange_elemental/spr_defender_orange_elemental.yy",
+    "name":"spr_defender_fire_elemental",
+    "path":"sprites/spr_defender_fire_elemental/spr_defender_fire_elemental.yy",
   },
   "spriteMaskId":null,
   "visible":true,
