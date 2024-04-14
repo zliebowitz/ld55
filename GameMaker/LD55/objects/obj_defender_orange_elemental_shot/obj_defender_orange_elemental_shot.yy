@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_defender_organe_elemental_shot",
-    "path":"sprites/spr_defender_organe_elemental_shot/spr_defender_organe_elemental_shot.yy",
+    "name":"spr_defender_orange_elemental_shot",
+    "path":"sprites/spr_defender_orange_elemental_shot/spr_defender_orange_elemental_shot.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -15,3 +15,5 @@ else
 	move_speed = 40 / game_get_speed(gamespeed_fps);
 	damage = 30;
 }
+
+last_hp = hp;
