@@ -85,6 +85,7 @@
     {"id":{"name":"spr_tower","path":"sprites/spr_tower/spr_tower.yy",},},
     {"id":{"name":"spr_ui_cursor","path":"sprites/spr_ui_cursor/spr_ui_cursor.yy",},},
     {"id":{"name":"spr_ui_panel","path":"sprites/spr_ui_panel/spr_ui_panel.yy",},},
+    {"id":{"name":"spr_ui_mana","path":"sprites/spr_ui_mana/spr_ui_mana.yy",},},
     {"id":{"name":"tile_set_1","path":"tilesets/tile_set_1/tile_set_1.yy",},},
   ],
   "resourceType":"GMProject",

@@ -12,5 +12,6 @@
     {"name":"spr_defender_crystals","order":1,"path":"sprites/spr_defender_crystals/spr_defender_crystals.yy",},
     {"name":"spr_monster_skull_damaged","order":1,"path":"sprites/spr_monster_skull_damaged/spr_monster_skull_damaged.yy",},
     {"name":"spr_ui_cursor","order":1,"path":"sprites/spr_ui_cursor/spr_ui_cursor.yy",},
+    {"name":"spr_ui_mana","order":2,"path":"sprites/spr_ui_mana/spr_ui_mana.yy",},
   ],
 }

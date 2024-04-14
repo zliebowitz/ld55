@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_ui_mana",
+    "path":"sprites/spr_ui_mana/spr_ui_mana.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
