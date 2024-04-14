@@ -7,7 +7,9 @@
   "overriddenProperties":[
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_name","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"earth\"",},
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_type","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"DEFENDER_TYPES.EARTH",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_cost","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_cost","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_object","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_defender_crystals",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"ui_sprite","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_defender_crystals",},
   ],
   "parent":{
     "name":"ui",
