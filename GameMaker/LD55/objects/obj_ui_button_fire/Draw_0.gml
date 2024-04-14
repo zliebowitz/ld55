@@ -1,6 +1,6 @@
 var _f = draw_get_font();
 var _ha = draw_get_halign();
-var _va = draw_get_halign();
+var _va = draw_get_valign();
 
 
 draw_self();

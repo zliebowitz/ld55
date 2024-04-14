@@ -10,5 +10,6 @@ global.placer_state = {
 	type: DEFENDER_TYPES.FIRE,
 	ui_sprite: spr_defender_elemental,
 	object: obj_defender_elemental,
-	cost: 1
+	cost: 1,
+	max_range: 0
 }
