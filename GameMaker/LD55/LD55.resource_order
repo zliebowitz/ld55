@@ -4,6 +4,8 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_defender_elemental_shot","order":1,"path":"objects/obj_defender_elemental_shot/obj_defender_elemental_shot.yy",},
+    {"name":"obj_defender_orange_elemental_shot","order":3,"path":"objects/obj_defender_orange_elemental_shot/obj_defender_orange_elemental_shot.yy",},
+    {"name":"obj_defender_orange_elemental","order":2,"path":"objects/obj_defender_orange_elemental/obj_defender_orange_elemental.yy",},
     {"name":"spr_ui_cursor","order":1,"path":"sprites/spr_ui_cursor/spr_ui_cursor.yy",},
   ],
 }
