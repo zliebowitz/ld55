@@ -4,7 +4,7 @@ enum DEFENDER_TYPES
 	WATER,
 	EARTH,
 	WIND,
-	LIGHTNING
+	ICE
 }
 
 
@@ -13,4 +13,4 @@ ds_map_add(global.max_ranges, DEFENDER_TYPES.FIRE, 100)
 ds_map_add(global.max_ranges, DEFENDER_TYPES.WATER, 100)
 ds_map_add(global.max_ranges, DEFENDER_TYPES.WIND, 100)
 ds_map_add(global.max_ranges, DEFENDER_TYPES.EARTH, -1)
-ds_map_add(global.max_ranges, DEFENDER_TYPES.LIGHTNING, 80)
+ds_map_add(global.max_ranges, DEFENDER_TYPES.ICE, 80)
