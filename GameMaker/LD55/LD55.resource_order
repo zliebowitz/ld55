@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_ui_cursor","order":1,"path":"sprites/spr_ui_cursor/spr_ui_cursor.yy",},
+  ],
 }
