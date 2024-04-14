@@ -8,7 +8,7 @@ global.player_state = {
 global.placer_state = {
 	active: false,
 	type: DEFENDER_TYPES.FIRE,
-	ui_sprite: spr_defender_elemental,
+	ui_sprite: spr_defender_water_elemental,
 	object: obj_defender_elemental,
 	cost: 1,
 	max_range: 0

@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_defender_magenta_elemental",
-    "path":"sprites/spr_defender_magenta_elemental/spr_defender_magenta_elemental.yy",
+    "name":"spr_defender_wind_elemental",
+    "path":"sprites/spr_defender_wind_elemental/spr_defender_wind_elemental.yy",
   },
   "spriteMaskId":null,
   "visible":true,
