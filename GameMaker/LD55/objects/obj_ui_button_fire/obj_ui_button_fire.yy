@@ -30,7 +30,7 @@
     {"$GMObjectProperty":"","%Name":"defender_cost","filters":[],"listItems":[],"multiselect":false,"name":"defender_cost","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":0,},
     {"$GMObjectProperty":"","%Name":"defender_name","filters":[],"listItems":[],"multiselect":false,"name":"defender_name","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"fire\"","varType":2,},
     {"$GMObjectProperty":"","%Name":"defender_type","filters":[],"listItems":[],"multiselect":false,"name":"defender_type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"DEFENDER_TYPES.FIRE","varType":4,},
-    {"$GMObjectProperty":"","%Name":"defender_object","filters":[],"listItems":[],"multiselect":false,"name":"defender_object","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_tower_archer","varType":5,},
+    {"$GMObjectProperty":"","%Name":"defender_object","filters":[],"listItems":[],"multiselect":false,"name":"defender_object","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_defender_elemental","varType":5,},
     {"$GMObjectProperty":"","%Name":"ui_sprite","filters":[],"listItems":[],"multiselect":false,"name":"ui_sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_defender_elemental","varType":5,},
   ],
   "resourceType":"GMObject",
