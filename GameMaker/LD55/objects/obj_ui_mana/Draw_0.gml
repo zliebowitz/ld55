@@ -2,7 +2,7 @@
 
 var _columns = 6;
 
-var _mana = floor(global.player_state.mana);
+var _mana = floor(global.player_state.mana)
 
 for(var _i = 0; _i < _mana;)
 {
