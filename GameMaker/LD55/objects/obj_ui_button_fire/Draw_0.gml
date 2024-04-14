@@ -9,8 +9,6 @@ draw_set_valign(fa_middle);
 
 draw_set_font(fnt_ui);
 
-
-
 var _name_y = y - sprite_height/2.0 + string_height(defender_name)/2;
 var _cost_y = y + sprite_height/2.0 - string_height(defender_name)/2;
 
