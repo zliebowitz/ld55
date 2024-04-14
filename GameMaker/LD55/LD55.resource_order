@@ -6,7 +6,9 @@
   "ResourceOrderSettings":[
     {"name":"obj_defender_crystals","order":4,"path":"objects/obj_defender_crystals/obj_defender_crystals.yy",},
     {"name":"obj_defender_elemental_shot","order":1,"path":"objects/obj_defender_elemental_shot/obj_defender_elemental_shot.yy",},
+    {"name":"obj_defender_ice_elemental","order":7,"path":"objects/obj_defender_ice_elemental/obj_defender_ice_elemental.yy",},
     {"name":"obj_defender_magenta_elemental_shot","order":6,"path":"objects/obj_defender_magenta_elemental_shot/obj_defender_magenta_elemental_shot.yy",},
+    {"name":"obj_defender_ice_elemental_shot","order":8,"path":"objects/obj_defender_ice_elemental_shot/obj_defender_ice_elemental_shot.yy",},
     {"name":"obj_defender_magenta_elemental","order":5,"path":"objects/obj_defender_magenta_elemental/obj_defender_magenta_elemental.yy",},
     {"name":"obj_defender_orange_elemental_shot","order":3,"path":"objects/obj_defender_orange_elemental_shot/obj_defender_orange_elemental_shot.yy",},
     {"name":"obj_defender_orange_elemental","order":2,"path":"objects/obj_defender_orange_elemental/obj_defender_orange_elemental.yy",},
