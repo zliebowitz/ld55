@@ -1,4 +1,7 @@
 /// @description hit by ice elmenal
 // You can write your code in this editor
 path_speed = move_speed;
-sprite_index = spr_monster_skull;
+if (sprite_index == spr_monster_skull_frosted)
+	sprite_index = spr_monster_skull;
+else if (sprite_index == spr_monster_sjull_frosted_damaged)
+	wprite_index = spr_monster_skull_damaged;
