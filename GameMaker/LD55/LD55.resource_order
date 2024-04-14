@@ -3,11 +3,15 @@
     {"name":"start","order":1,"path":"folders/Objects/start.yy",},
   ],
   "ResourceOrderSettings":[
-<<<<<<< HEAD
+
     {"name":"rm_start","order":1,"path":"rooms/rm_start/rm_start.yy",},
-=======
+
     {"name":"obj_ui_placer","order":1,"path":"objects/obj_ui_placer/obj_ui_placer.yy",},
->>>>>>> 3a747a2a98ce0c88a3f8f47df12e66b17d4e5e30
+
+    {"name":"obj_ui_mana","order":2,"path":"objects/obj_ui_mana/obj_ui_mana.yy",},
+    {"name":"obj_ui_placer","order":1,"path":"objects/obj_ui_placer/obj_ui_placer.yy",},
+    {"name":"obj_ui_health","order":3,"path":"objects/obj_ui_health/obj_ui_health.yy",},
+
     {"name":"spr_defender_magenta_elemental_shot","order":2,"path":"sprites/spr_defender_magenta_elemental_shot/spr_defender_magenta_elemental_shot.yy",},
     {"name":"spr_defender_magenta_elemental","order":1,"path":"sprites/spr_defender_magenta_elemental/spr_defender_magenta_elemental.yy",},
     {"name":"spr_defender_orange_elemental","order":3,"path":"sprites/spr_defender_orange_elemental/spr_defender_orange_elemental.yy",},

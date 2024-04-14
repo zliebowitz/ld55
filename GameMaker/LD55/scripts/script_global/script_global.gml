@@ -9,5 +9,6 @@ global.placer_state = {
 	active: false,
 	type: DEFENDER_TYPES.FIRE,
 	ui_sprite: spr_defender_elemental,
-	object: obj_tower_archer
+	object: obj_tower_archer,
+	cost: 1
 }
