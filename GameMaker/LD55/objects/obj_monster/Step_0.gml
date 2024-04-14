@@ -3,7 +3,7 @@
 
 if (path_index == -1) instance_destroy();
 
-if (last_hp != hp)
+if (last_hp != hp && sprite_index != spr_monster_skull_frosted)
 {
 	sprite_index = spr_monster_skull_damaged;
 	last_hp = hp;
