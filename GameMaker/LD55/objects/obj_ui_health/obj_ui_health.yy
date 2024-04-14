@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_ui_heart",
+    "path":"sprites/spr_ui_heart/spr_ui_heart.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
