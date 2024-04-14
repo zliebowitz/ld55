@@ -22,5 +22,6 @@
     {"name":"spr_tower_wizard","order":1,"path":"sprites/spr_tower_wizard/spr_tower_wizard.yy",},
     {"name":"spr_ui_cursor","order":1,"path":"sprites/spr_ui_cursor/spr_ui_cursor.yy",},
     {"name":"spr_ui_mana","order":2,"path":"sprites/spr_ui_mana/spr_ui_mana.yy",},
+    {"name":"spr_ui_heart","order":3,"path":"sprites/spr_ui_heart/spr_ui_heart.yy",},
   ],
 }
