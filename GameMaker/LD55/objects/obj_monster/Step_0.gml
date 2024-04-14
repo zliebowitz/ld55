@@ -5,6 +5,11 @@ if (path_index == -1) instance_destroy();
 
 if (last_hp != hp)
 {
-	sprite_index = alarm[1] == 0 ? spr_monster_skull_damaged : spr_monster_skull_frosted_damaged;
+	if (sprite_index == spr_monster_skull)
+		sprite_index = spr_monster_skull_damaged;
+	else if (spr_monster_skull == spr_monster_skull_frosted)
+		sprite_index = spr_monster_skull_frosted_damaged;
+	else
+		sprite_index = sprite_index; // reset animaiton?
 	last_hp = hp;
 }
