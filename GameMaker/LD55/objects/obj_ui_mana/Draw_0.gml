@@ -1,13 +1,13 @@
 // draw_text(x,y, "mana: " + string(global.player_state.mana))
 
-var _columns = 6;
+var _columns = 10;
 
-var _mana = floor(global.player_state.mana)
+var _count = floor(global.player_state.mana)
 
-for(var _i = 0; _i < _mana;)
+for(var _i = 0; _i < _count;)
 {
 	var _row = (_i)/_columns;
-	for(var _j = 0; _j < _columns && _i < _mana; ++_j)
+	for(var _j = 0; _j < _columns && _i < _count; ++_j)
 	{
 		draw_sprite(sprite_index,0,x + sprite_width*_j, y + _row*sprite_height);
 		_i += 1;
@@ -15,4 +15,4 @@ for(var _i = 0; _i < _mana;)
 }
 
 //draw_text(x,y+30, string(global.player_state.mana) )
-//draw_text(x,y+40, string(_mana) )
+//draw_text(x,y+40, string(_count) )
