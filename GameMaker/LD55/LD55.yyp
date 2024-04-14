@@ -53,11 +53,8 @@
     {"id":{"name":"obj_ui_button_lightning","path":"objects/obj_ui_button_lightning/obj_ui_button_lightning.yy",},},
     {"id":{"name":"obj_ui_button_water","path":"objects/obj_ui_button_water/obj_ui_button_water.yy",},},
     {"id":{"name":"obj_ui_button_wind","path":"objects/obj_ui_button_wind/obj_ui_button_wind.yy",},},
-
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
-
     {"id":{"name":"obj_ui_mana","path":"objects/obj_ui_mana/obj_ui_mana.yy",},},
-
     {"id":{"name":"obj_ui_placer","path":"objects/obj_ui_placer/obj_ui_placer.yy",},},
     {"id":{"name":"obj_ui_health","path":"objects/obj_ui_health/obj_ui_health.yy",},},
     {"id":{"name":"pth_stage_1","path":"paths/pth_stage_1/pth_stage_1.yy",},},

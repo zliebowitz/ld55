@@ -7,6 +7,7 @@
   "overriddenProperties":[
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_name","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"wind\"",},
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_type","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"DEFENDER_TYPES.WIND",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_ui_button_fire","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"propertyId":{"name":"defender_cost","path":"objects/obj_ui_button_fire/obj_ui_button_fire.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
   ],
   "parent":{
     "name":"ui",
