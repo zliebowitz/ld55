@@ -10,3 +10,5 @@ window_set_size(_window_width, _window_height);
 cursor_sprite = spr_ui_cursor;
 window_set_cursor(cr_none);
 window_center();
+
+global.player_state.hp = 100;

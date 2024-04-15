@@ -5,8 +5,8 @@
     {"name":"gameover","order":5,"path":"folders/Objects/gameover.yy",},
     {"name":"music","order":6,"path":"folders/Objects/music.yy",},
     {"name":"stage_selection","order":5,"path":"folders/Objects/stage_selection.yy",},
-    {"name":"sfx","order":2,"path":"folders/Sounds/sfx.yy",},
     {"name":"music","order":1,"path":"folders/Sounds/music.yy",},
+    {"name":"sfx","order":2,"path":"folders/Sounds/sfx.yy",},
     {"name":"stage_selection","order":2,"path":"folders/Sprites/stage_selection.yy",},
   ],
   "ResourceOrderSettings":[

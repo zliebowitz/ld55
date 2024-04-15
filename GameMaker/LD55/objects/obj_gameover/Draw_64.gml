@@ -7,8 +7,8 @@ draw_set_color(c_white);
 
 var _text = "What a shend, you were annihilated!  It was a massacre! \n";
 	_text += "Some would say slaughter! \n";
-	_text += "Totally smashed, belted, sloshed, taken to the cleaners,\n";
-	_text += "They just wiped the follow with you!";
+	_text += "Totally smashed, belted, sloshed, taken to the cleaners.\n";
+	_text += "They just wiped the floor with you!";
 draw_text(camera_get_view_width(view_camera[0]) / 2 - string_width(_text) / 2, camera_get_view_height(view_camera[0]) / 4 - string_height(_text) / 2, _text);
 
 
