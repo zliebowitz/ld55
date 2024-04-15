@@ -1,0 +1,1 @@
+monster_path = pth_stage_4_a;
