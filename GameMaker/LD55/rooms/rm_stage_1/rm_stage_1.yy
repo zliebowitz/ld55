@@ -53,7 +53,12 @@
           33,-4,0,-2,33,4,28,5,5,29,-10,33,-4,0,-2,33,4,38,16,17,39,-6,33,-8,0,-2,33,6,48,27,26,49,33,33,-12,0,
           -8,33,-12,0,-8,33,-44,0,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tile_set_1","path":"tilesets/tile_set_1/tile_set_1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":7,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"Ground","depth":7,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Ground","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":12,"SerialiseWidth":20,"TileCompressedData":[
+          -42,-2147483648,-8,32,-12,-2147483648,-8,32,-12,-2147483648,-2,32,-4,-2147483648,-2,32,-10,-2147483648,
+          -4,32,-4,-2147483648,-2,32,-4,-2147483648,-10,32,-4,-2147483648,-2,32,-4,-2147483648,-6,32,-8,-2147483648,
+          -2,32,-4,-2147483648,-2,32,-12,-2147483648,-8,32,-12,-2147483648,-8,32,-44,-2147483648,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"tile_set_1","path":"tilesets/tile_set_1/tile_set_1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":8,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"rm_stage_1",
   "parent":{
