@@ -6,7 +6,8 @@ if (other.hp <= 0)
 else
 {
 	other.alarm[1] = 120;
-	other.sprite_index = spr_monster_skull_frosted;
+	if (other.sprite_index == spr_monster_skull) other.sprite_index = spr_monster_skull_frosted;
+	else if (other.sprite_index == spr_monster_metal_skull) other.sprite_index = spr_monster_metal_skull_frosted;
 	other.path_speed = .3 * other.move_speed;
 }
 instance_destroy();
