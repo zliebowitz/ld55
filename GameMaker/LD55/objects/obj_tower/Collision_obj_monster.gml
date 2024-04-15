@@ -11,6 +11,6 @@ layer_set_fx("Effects", _filter);
 
 if (global.player_state.hp <= 0)
 {
-	instance_create_depth(x,y,depth, obj_gameover_fadeout);
+	instance_create_layer(x,y,"UI", obj_gameover_fadeout);
 	instance_destroy();
 }
