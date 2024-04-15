@@ -9,3 +9,5 @@ clicked = false;
 
 animation_time_ms = 0;
 max_animation_time_ms = 1000000;
+stop_animation_time_ms = max_animation_time_ms;
+max_distance = 640;

@@ -20,3 +20,6 @@ for(var _j = 0; _j < _columns && _i < _mana; ++_j)
 	target_y =  obj_ui_mana.y + _row * sprite_height;
 	_i += 1;
 }
+
+var _distance = point_distance(x, y, target_x, target_y);
+stop_animation_time_ms = _distance * max_animation_time_ms / max_distance;
