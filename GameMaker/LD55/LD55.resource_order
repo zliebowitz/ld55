@@ -8,6 +8,7 @@
     {"name":"music","order":1,"path":"folders/Sounds/music.yy",},
     {"name":"sfx","order":2,"path":"folders/Sounds/sfx.yy",},
     {"name":"stage_selection","order":2,"path":"folders/Sprites/stage_selection.yy",},
+    {"name":"start","order":3,"path":"folders/Sprites/start.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_defender_crystals","order":4,"path":"objects/obj_defender_crystals/obj_defender_crystals.yy",},
@@ -35,10 +36,11 @@
     {"name":"spr_monster_skull_frosted","order":2,"path":"sprites/spr_monster_skull_frosted/spr_monster_skull_frosted.yy",},
     {"name":"spr_stage_selection_stage_1","order":1,"path":"sprites/spr_stage_selection_stage_1/spr_stage_selection_stage_1.yy",},
     {"name":"spr_stage_selection_stage_select","order":2,"path":"sprites/spr_stage_selection_stage_select/spr_stage_selection_stage_select.yy",},
+    {"name":"spr_stage_selection_stage_selected","order":3,"path":"sprites/spr_stage_selection_stage_selected/spr_stage_selection_stage_selected.yy",},
     {"name":"spr_tower_wizard","order":1,"path":"sprites/spr_tower_wizard/spr_tower_wizard.yy",},
     {"name":"spr_ui_cursor","order":1,"path":"sprites/spr_ui_cursor/spr_ui_cursor.yy",},
     {"name":"spr_ui_heart","order":3,"path":"sprites/spr_ui_heart/spr_ui_heart.yy",},
     {"name":"spr_ui_mana","order":2,"path":"sprites/spr_ui_mana/spr_ui_mana.yy",},
-    {"name":"spr_stage_selection_stage_selected","order":3,"path":"sprites/spr_stage_selection_stage_selected/spr_stage_selection_stage_selected.yy",},
+    {"name":"spr_start_click_anywhere","order":1,"path":"sprites/spr_start_click_anywhere/spr_start_click_anywhere.yy",},
   ],
 }
