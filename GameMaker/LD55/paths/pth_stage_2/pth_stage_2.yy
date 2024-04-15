@@ -5,8 +5,8 @@
   "kind":0,
   "name":"pth_stage_2",
   "parent":{
-    "name":"stage_1",
-    "path":"folders/Paths/stage_1.yy",
+    "name":"stage_2",
+    "path":"folders/Paths/stage_2.yy",
   },
   "points":[
     {"speed":100.0,"x":0.0,"y":48.0,},
