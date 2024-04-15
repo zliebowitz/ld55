@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":51.2056,
+  "duration":85.342224,
   "name":"snd_music_stage_bgm",
   "parent":{
     "name":"music",
