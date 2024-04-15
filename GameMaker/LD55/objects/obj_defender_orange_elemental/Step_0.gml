@@ -18,6 +18,7 @@ if (ready_to_shoot == true)
 		{direction: _dir, target: _target});
 		// TODO: get in to struct?;
 		ready_to_shoot = false;
-		alarm[0]= time_between_shots;		
+		alarm[0]= time_between_shots;
+		audio_play_sound(snd_sfx_shot, 10, false);
 	}
 }
