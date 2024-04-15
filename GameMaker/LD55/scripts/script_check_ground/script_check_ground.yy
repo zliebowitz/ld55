@@ -1,9 +1,9 @@
 {
   "$GMScript":"",
-  "%Name":"script_check_grass",
+  "%Name":"script_check_ground",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"script_check_grass",
+  "name":"script_check_ground",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

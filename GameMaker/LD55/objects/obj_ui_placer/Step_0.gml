@@ -19,12 +19,11 @@ if(global.placer_state.active)
 	!position_meeting(mouse_x-16, mouse_y+16, _objs) &&
 	!position_meeting(mouse_x+16, mouse_y-16, _objs) )
 	{
-		var _touching_grass = script_check_grass();
-		if(global.placer_state.object != obj_defender_crystals && _touching_grass)
+		if(global.placer_state.object != obj_defender_crystals && script_check_ground(GROUND_TYPE.GRASS))
 		{
 			currently_placeable = true;
 		}
-		if(global.placer_state.object == obj_defender_crystals && !_touching_grass)
+		if(global.placer_state.object == obj_defender_crystals && script_check_ground(GROUND_TYPE.PATH))
 		{
 			currently_placeable = true;
 		}
