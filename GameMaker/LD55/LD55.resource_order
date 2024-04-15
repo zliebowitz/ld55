@@ -37,6 +37,7 @@
     {"name":"spr_monster_skull_frosted_damaged","order":3,"path":"sprites/spr_monster_skull_frosted_damaged/spr_monster_skull_frosted_damaged.yy",},
     {"name":"spr_monster_skull_frosted","order":2,"path":"sprites/spr_monster_skull_frosted/spr_monster_skull_frosted.yy",},
     {"name":"spr_stage_selection_stage_1","order":1,"path":"sprites/spr_stage_selection_stage_1/spr_stage_selection_stage_1.yy",},
+    {"name":"spr_stage_selection_stage_2","order":4,"path":"sprites/spr_stage_selection_stage_2/spr_stage_selection_stage_2.yy",},
     {"name":"spr_stage_selection_stage_select","order":2,"path":"sprites/spr_stage_selection_stage_select/spr_stage_selection_stage_select.yy",},
     {"name":"spr_stage_selection_stage_selected","order":3,"path":"sprites/spr_stage_selection_stage_selected/spr_stage_selection_stage_selected.yy",},
     {"name":"spr_start_click_anywhere","order":1,"path":"sprites/spr_start_click_anywhere/spr_start_click_anywhere.yy",},
