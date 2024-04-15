@@ -6,3 +6,5 @@ fx_set_parameter(_filter, "g_Magnitude", 40 );
 fx_set_parameter(_filter, "g_ShakeSpeed ", 4 );
 
 layer_set_fx("Effects", _filter)
+
+next_room = rm_gameover;

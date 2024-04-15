@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gameover",
+  "%Name":"obj_win_fadeout",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":56,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_gameover",
+  "name":"obj_win_fadeout",
   "overriddenProperties":[],
   "parent":{
-    "name":"gameover",
-    "path":"folders/Objects/gameover.yy",
+    "name":"win",
+    "path":"folders/Objects/win.yy",
   },
   "parentObjectId":null,
   "persistent":false,

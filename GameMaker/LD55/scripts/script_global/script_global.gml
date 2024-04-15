@@ -13,3 +13,5 @@ global.placer_state = {
 	cost: 1,
 	max_range: 0
 }
+global.num_monsters = 0;
+global.max_monsters = 200;

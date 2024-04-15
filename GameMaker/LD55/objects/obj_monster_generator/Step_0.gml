@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if (global.num_monsters >= global.max_monsters) return;
+
 if (generate_time > max_generate_time)
 {
 	var _monster = instance_create_depth(x, y, depth - 1, obj_monster);
