@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"script_check_grass",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_check_grass",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
