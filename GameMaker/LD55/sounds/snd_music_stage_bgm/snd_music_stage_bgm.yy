@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_music_stage_bgm.wav",
   "type":0,
-  "volume":0.7,
+  "volume":0.4,
 }
