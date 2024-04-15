@@ -61,10 +61,10 @@
           36,48,27,26,27,26,49,47,47,28,-18,36,2,47,28,-19,36,1,28,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tile_set_1","path":"tilesets/tile_set_1/tile_set_1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Ground","depth":7,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Ground","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":12,"SerialiseWidth":20,"TileCompressedData":[
-          -13,-2147483648,-2,32,-5,-2147483648,-19,32,-14,-2147483648,-2,32,-2,-2147483648,-2,32,-14,-2147483648,
-          -2,32,-2,-2147483648,-2,32,-10,-2147483648,-6,32,-2,-2147483648,-2,32,-10,-2147483648,-2,32,-6,-2147483648,
+          -13,26,-2,32,-4,26,1,-2147483648,-19,32,-14,-2147483648,-2,32,-2,-2147483648,-2,32,-10,-2147483648,-4,
+          26,-2,32,-2,-2147483648,-2,32,-10,-2147483648,-6,32,-2,-2147483648,-2,32,-10,-2147483648,-2,32,-6,-2147483648,
           -2,32,-10,-2147483648,-2,32,-6,-2147483648,-2,32,-10,-2147483648,-2,32,-6,-2147483648,-2,32,-10,-2147483648,
-          -2,32,-6,-2147483648,-2,32,-9,-2147483648,-4,32,-5,-2147483648,-2,32,1,-2147483648,-19,32,1,-2147483648,
+          -2,32,-6,-2147483648,-2,32,1,-2147483648,-9,26,-2,32,-6,26,-2,32,1,-2147483648,-19,32,1,-2147483648,
           -19,32,1,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tile_set_1","path":"tilesets/tile_set_1/tile_set_1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":8,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
