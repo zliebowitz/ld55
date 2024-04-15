@@ -2,4 +2,5 @@
 // You can write your code in this editor
 
 if (sprite_index == spr_monster_skull_damaged) sprite_index = spr_monster_skull;
-if (sprite_index == spr_monster_skull_frosted_damaged) sprite_index = spr_monster_skull_frosted_damaged;
+//if (sprite_index == spr_monster_skull_frosted_damaged) sprite_index = spr_monster_skull_frosted_damaged;
+if (sprite_index == spr_monster_metal_skull_damaged) sprite_index = spr_monster_metal_skull;
