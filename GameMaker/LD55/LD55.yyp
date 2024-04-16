@@ -148,6 +148,7 @@
     {"id":{"name":"spr_ui_mana","path":"sprites/spr_ui_mana/spr_ui_mana.yy",},},
     {"id":{"name":"spr_ui_panel","path":"sprites/spr_ui_panel/spr_ui_panel.yy",},},
     {"id":{"name":"spr_white","path":"sprites/spr_white/spr_white.yy",},},
+    {"id":{"name":"spr_ui_summons_label","path":"sprites/spr_ui_summons_label/spr_ui_summons_label.yy",},},
     {"id":{"name":"tile_set_1","path":"tilesets/tile_set_1/tile_set_1.yy",},},
   ],
   "resourceType":"GMProject",
