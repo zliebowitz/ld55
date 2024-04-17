@@ -14,3 +14,5 @@ window_center();
 global.player_state.hp = 100;
 global.player_state.mana = 1;
 global.num_monsters = 0;
+
+global.placer_state.active = false;
